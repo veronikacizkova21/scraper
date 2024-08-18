@@ -19,11 +19,11 @@ Zadáme argumenty:
 1.https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8104
 2.novy_jicin.csv
 Tj. do příkazového řádku zadáme:
-python electionscraper „https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8104“ „novy_jicin.csv“
+python electionscraper.py „https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8104“ „novy_jicin.csv“
 
 Průběh programu:
 STAHUJI DATA Z VYBRANÉHO URL: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8104.
-UKLÁDÁM DO SOUBORU: novy_jicin.csv .
+UKLÁDÁM DO SOUBORU: novy_jicin.csv.
 UKONČUJI PROGRAM.
 
 Částečný výstup:
