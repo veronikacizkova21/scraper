@@ -6,7 +6,7 @@ Závěrečný projekt kurzu Python Akademie (ENGETO)
 Projekt obsahuje:
 1.	dokumentace (README.md), 
 2.	soupis všech knihoven a jejich verzí (requirements.txt),
-3.	skript pro stáhnutí požadovaných dat (electionscraper),
+3.	skript pro stáhnutí požadovaných dat (electionscraper.py),
 4.	soubor s uloženým výstupem (novy_jicin.csv).
 
 Při spuštění je nutno zadat povinné argumenty: 
